@@ -1,7 +1,6 @@
 package com.bridgelabz.generics;
 
 public class MaximumTestGenerics<T> {
-	T num1, num2, num3;
 
 	/*
 	 * Given three Floats and find maximum. First i have taken number one is
