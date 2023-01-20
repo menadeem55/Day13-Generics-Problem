@@ -1,7 +1,6 @@
 package com.bridgelabz.generics;
 
 public class MaximumTestGenerics<T> {
-	T num1, num2, num3;
 
 	/*
 	 * Given three String values then used compare to method
